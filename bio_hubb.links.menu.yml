@@ -1,0 +1,4 @@
+iguana.configuration:
+  title: Configure
+  route_name: bio_hubb.configuration
+  parent: system.admin_config_services

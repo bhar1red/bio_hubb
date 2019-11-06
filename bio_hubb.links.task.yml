@@ -1,0 +1,4 @@
+bio_hubb.configuration:
+  title: Configure
+  route_name: bio_hubb.configuration
+  base_route: bio_hubb.configuration

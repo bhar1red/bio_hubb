@@ -1,0 +1,9 @@
+bio_hubb.configuration:
+  path: '/admin/config/services/bio_hubb/config'
+  defaults: 
+    _form: '\Drupal\bio_hubb\Form\BioHubbConfigurationForm'
+    _title: 'Bio_Hubb Configuraiton Form'
+  requirements: 
+    _permission: 'bio_hubb admin config'
+  options: 
+    _admin_route: TRUE

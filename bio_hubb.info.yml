@@ -1,0 +1,6 @@
+name: BIO Hubb Api
+type: module
+description: Api to fetch data from bio hubb
+core: 8.x
+package: BIO
+version: VERSION

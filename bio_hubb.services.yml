@@ -1,0 +1,3 @@
+services:
+  bio.api.hubb:
+    class: Drupal\bio_hubb\Controller\BioHubbController
